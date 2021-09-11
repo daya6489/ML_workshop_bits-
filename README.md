@@ -36,6 +36,9 @@ Created a master data with all existing and derived features. We derived ~190 ad
 5. Model comparision
 6. Ensemble Model and Scoring
 
+## Session Video
+https://drive.google.com/drive/folders/1-dS-_u6_Wd-fpD679ISp6WeiVa9pkihC?usp=sharing
+
 ## Reference:
 0. Data Source:
  - https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
